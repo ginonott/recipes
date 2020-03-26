@@ -53,15 +53,3 @@ For The Lamb:
 # Dessert
 
 # Drinks
-
-<script>
-    var featuredLink = document.getElementById('featured');
-    var allRecipes = document.getElementsByTagName("h2");
-    var randomIndex = Math.floor(Math.random() * allRecipes.length);
-    var heading = allRecipes[randomIndex];
-    var link = '#' + heading.innerText.replace(/ /g, "-").toLowerCase()
-
-    featuredLink.href = link;
-    featuredLink.innerHTML = heading.innerText;
-    featuredLink.title = link;
-</script>
