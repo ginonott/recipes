@@ -6,7 +6,7 @@
 - [Dinner](#dinner)
   - [Spicy Miso Soup with Roasted Cabbage and 5 Spice Lamb Shoulder](#spicy-miso-soup-with-roasted-cabbage-and-5-spice-lamb-shoulder)
     - [Ingredients](#ingredients)
-    - [Directions:](#directions)
+    - [Directions](#directions)
 - [Dessert](#dessert)
 - [Drinks](#drinks)
 
@@ -37,7 +37,7 @@ For The Lamb:
 * 1LB Lamb Shoulder (Bone-in) cut into a steak
 * Salt, Pepper, Chinese 5 Spice
 
-### Directions:
+### Directions
 1. Generously season the lamb on all sides with salt, pepper, and 5 spice. Leave in fridge uncovered to dry out
 2. Cut napa cabbage into wide strips and lay out on a baking sheet. Roast under the broiler on LOW, turning and tossing as the top layer becomes brown. Remove from broiler when browned all over and starting to become tender.
 3. Roast scallions under broiler until they begin to char. Flipping to char each side. Remove and roughly chop when cool.
